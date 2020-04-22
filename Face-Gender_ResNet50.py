@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  3 15:33:00 2020
-
-@author: sumak
-"""
-
 from keras.applications import ResNet50
 from keras.models import Sequential
 from keras.layers import Dense
