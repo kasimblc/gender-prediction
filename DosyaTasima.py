@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  3 20:04:43 2020
-
-@author: sumak
-"""
-
 import os
 import shutil
 import pandas as pd
